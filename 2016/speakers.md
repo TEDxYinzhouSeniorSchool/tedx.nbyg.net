@@ -1,5 +1,6 @@
 ---
 layout: page
+navtitle: 讲者
 title: 2016 届讲者
 permalink: /2016/speakers
 current: true
