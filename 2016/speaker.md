@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 讲者
-permalink: /speakers/
+title: 2016 届讲者
+permalink: /2016/speakers
 ---
 
 ## <img src="{{"/img/2016/spk/anthony_chong.jpg" | prepend: site.cdn }}" class="avatar-heading"> Anthony Chong
