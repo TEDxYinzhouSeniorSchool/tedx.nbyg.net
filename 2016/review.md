@@ -25,7 +25,7 @@ current: true
   
 2016 年 5 月 21 日，TEDxYinzhouSeniorSchool 在宁波鄞州高级中学成功举办，成为浙江第一个由高中生自主举办、学校承办、TED 核准的 TEDxYouth 活动。
 
-![]({{ "/img/2016/review/all.jpg" | prepend: site.cdn }}?bust={{ site.time | date: '%s' }})
+![]({{ "/img/2016/all.jpg" | prepend: site.cdn }}?bust={{ site.time | date: '%s' }})
 </section>
 
 <section class="wrapper content-block bg-green">
@@ -33,7 +33,7 @@ current: true
 
 本次活动是由鄞高学子自行组织的，形成了独立的组织委员会负责整场活动。除此之外，讲者中还包括学生讲者。
 
-![]({{ "/img/2016/review/students.jpg" | prepend: site.cdn }}?bust={{ site.time | date: '%s' }})
+![]({{ "/img/2016/students.jpg" | prepend: site.cdn }}?bust={{ site.time | date: '%s' }})
 </section>
 
 <section class="wrapper content-block bg-indigo">
@@ -44,5 +44,5 @@ Karen L. Newman 在这个演讲中告诉我们，学英语也许并不一定需�
 
 <a href="#" class="call2action">演讲视频稍后放出</a>
 
-![]({{ "/img/2016/review/karen_l_newman.jpg" | prepend: site.cdn }}?bust={{ site.time | date: '%s' }})
+![]({{ "/img/2016/karen_l_newman.jpg" | prepend: site.cdn }}?bust={{ site.time | date: '%s' }})
 </section>
