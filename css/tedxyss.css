@@ -118,6 +118,10 @@
     margin-top: 2em;
     margin-bottom: 2em;
 }
+.content-block>img {
+    max-width: 800px;
+    width: 100%;
+}
 .bg-blue {
     background: #2196F3;
 }
