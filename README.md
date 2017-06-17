@@ -2,6 +2,7 @@
 
 > ## 重要声明
 > TEDxYinzhouSeniorSchool 2017 及其继承者与 TEDxYinzhouSeniorSchool 2016（本组委） 无直接联系。目前，TEDxYinzhouSeniorSchool 2016 官方网站已遭前者撤销，[TEDxYinzhouSeniorSchool 2017 官方网站](http://tedx.nbyg.net)中有关 2016 届的内容非为本组委维护，仅为其单方面描述，不受本组委任何形式的承认。2017 届组委单方面炮制的所谓「基本条例」违背了 TEDx 活动的基本原则，同时违反了[本组委于 2016 年 9 月 20 日制定的《基本条例》](https://github.com/TEDxYinzhouSeniorSchool/tedx.nbyg.net/blob/fdbaecc227089622e5965c4083ec573e6249609d/_posts/2016-09-24-base-rules.markdown)，故本组委不对其组委组成和活动具体策划实施作任何形式的承认。
+>
 > 原 TEDxYinzhouSeniorSchool 2016 组委
 
 > Notice: This site was abandoned by TEDxYinzhouSeniorSchool 2017 Committee. They turned to use a WordPress-based solution on http://tedx.nbyg.net. This repo might not be continued, but I would try to host this somewhere as a part of my resume. @laosb
